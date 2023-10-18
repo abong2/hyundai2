@@ -32,7 +32,7 @@ body {
   overflow-x: hidden;
   min-width: 780px;
   height: 2000px;
-  background-color: rgb(198, 245, 245);
+  /* background-color: rgb(198, 245, 245); */
 }
 body{
   /* 모달 떴을때 뒤에 스크롤 되 않도록 하려고 한다 */
@@ -394,7 +394,7 @@ body.active{
   width: calc(50% - 4.32%);
   height: 51.58vw;
   max-height: 840px;
-  background-color: bisque;
+  /* background-color: bisque; */
 }
 .news-top {
   width: 100%;
